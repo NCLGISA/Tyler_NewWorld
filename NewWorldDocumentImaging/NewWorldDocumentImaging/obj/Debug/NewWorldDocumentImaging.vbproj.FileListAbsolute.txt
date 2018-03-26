@@ -1,0 +1,17 @@
+C:\Users\dpdgs\Documents\Visual Studio 2008\Projects\NewWorldDocumentImaging\NewWorldDocumentImaging\bin\NewWorldDocumentImaging.dll
+C:\Users\dpdgs\Documents\Visual Studio 2008\Projects\NewWorldDocumentImaging\NewWorldDocumentImaging\bin\NewWorldDocumentImaging.pdb
+C:\Users\dpdgs\Documents\Visual Studio 2008\Projects\NewWorldDocumentImaging\NewWorldDocumentImaging\bin\NewWorldDocumentImaging.xml
+C:\Users\dpdgs\Documents\Visual Studio 2008\Projects\NewWorldDocumentImaging\NewWorldDocumentImaging\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dpdgs\Documents\Visual Studio 2008\Projects\NewWorldDocumentImaging\NewWorldDocumentImaging\obj\Debug\NewWorldDocumentImaging.Resources.resources
+C:\Users\dpdgs\Documents\Visual Studio 2008\Projects\NewWorldDocumentImaging\NewWorldDocumentImaging\obj\Debug\NewWorldDocumentImaging.vbproj.GenerateResource.Cache
+C:\Users\dpdgs\Documents\Visual Studio 2008\Projects\NewWorldDocumentImaging\NewWorldDocumentImaging\obj\Debug\NewWorldDocumentImaging.dll
+C:\Users\dpdgs\Documents\Visual Studio 2008\Projects\NewWorldDocumentImaging\NewWorldDocumentImaging\obj\Debug\NewWorldDocumentImaging.xml
+C:\Users\dpdgs\Documents\Visual Studio 2008\Projects\NewWorldDocumentImaging\NewWorldDocumentImaging\obj\Debug\NewWorldDocumentImaging.pdb
+H:\Visual Studio 2008\Projects\NewWorldDocumentImaging\NewWorldDocumentImaging\bin\NewWorldDocumentImaging.dll
+H:\Visual Studio 2008\Projects\NewWorldDocumentImaging\NewWorldDocumentImaging\bin\NewWorldDocumentImaging.pdb
+H:\Visual Studio 2008\Projects\NewWorldDocumentImaging\NewWorldDocumentImaging\bin\NewWorldDocumentImaging.xml
+H:\Visual Studio 2008\Projects\NewWorldDocumentImaging\NewWorldDocumentImaging\obj\Debug\NewWorldDocumentImaging.Resources.resources
+H:\Visual Studio 2008\Projects\NewWorldDocumentImaging\NewWorldDocumentImaging\obj\Debug\NewWorldDocumentImaging.dll
+H:\Visual Studio 2008\Projects\NewWorldDocumentImaging\NewWorldDocumentImaging\obj\Debug\NewWorldDocumentImaging.xml
+H:\Visual Studio 2008\Projects\NewWorldDocumentImaging\NewWorldDocumentImaging\obj\Debug\NewWorldDocumentImaging.pdb
+H:\Visual Studio 2008\Projects\NewWorldDocumentImaging\NewWorldDocumentImaging\obj\Debug\NewWorldDocumentImaging.vbproj.GenerateResource.Cache

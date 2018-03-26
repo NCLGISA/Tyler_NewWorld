@@ -1,0 +1,577 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+NewWorldDocumentImaging
+</name>
+</assembly>
+<members>
+<member name="F:NewWorldDocumentImaging._Parcel.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NewWorldDocumentImaging._Parcel.lblParcelNumberText">
+	<summary>
+lblParcelNumberText control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NewWorldDocumentImaging._Parcel.lblParcel">
+	<summary>
+lblParcel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NewWorldDocumentImaging._Parcel.lblWait">
+	<summary>
+lblWait control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NewWorldDocumentImaging._Parcel.btnCloseParcel">
+	<summary>
+btnCloseParcel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NewWorldDocumentImaging._Parcel.imgSearchPermit">
+	<summary>
+imgSearchPermit control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NewWorldDocumentImaging._Parcel.btnSearchParcel">
+	<summary>
+btnSearchParcel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NewWorldDocumentImaging._Parcel.imgScan">
+	<summary>
+imgScan control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NewWorldDocumentImaging._Parcel.btnScanParcel">
+	<summary>
+btnScanParcel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NewWorldDocumentImaging._License.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NewWorldDocumentImaging._License.lblLicenseNumberText">
+	<summary>
+lblLicenseNumberText control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NewWorldDocumentImaging._License.lblLicense">
+	<summary>
+lblLicense control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NewWorldDocumentImaging._License.lblLicenseTypeText">
+	<summary>
+lblLicenseTypeText control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NewWorldDocumentImaging._License.lblLicenseType">
+	<summary>
+lblLicenseType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NewWorldDocumentImaging._License.lblWait">
+	<summary>
+lblWait control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NewWorldDocumentImaging._License.btnClose">
+	<summary>
+btnClose control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NewWorldDocumentImaging._License.imgSearchLicenseType">
+	<summary>
+imgSearchLicenseType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NewWorldDocumentImaging._License.btnSearchType">
+	<summary>
+btnSearchType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NewWorldDocumentImaging._License.imgSearchLicense">
+	<summary>
+imgSearchLicense control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NewWorldDocumentImaging._License.btnSearch">
+	<summary>
+btnSearch control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NewWorldDocumentImaging._License.imgScan">
+	<summary>
+imgScan control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NewWorldDocumentImaging._License.btnScan">
+	<summary>
+btnScan control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:NewWorldDocumentImaging.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:NewWorldDocumentImaging.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:NewWorldDocumentImaging.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="F:NewWorldDocumentImaging._Default.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NewWorldDocumentImaging._Default.lblPermitNumberText">
+	<summary>
+lblPermitNumberText control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NewWorldDocumentImaging._Default.lblPermit">
+	<summary>
+lblPermit control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NewWorldDocumentImaging._Default.lblPermitTypeText">
+	<summary>
+lblPermitTypeText control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NewWorldDocumentImaging._Default.lblPermitType">
+	<summary>
+lblPermitType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NewWorldDocumentImaging._Default.lblWait">
+	<summary>
+lblWait control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NewWorldDocumentImaging._Default.btnClose">
+	<summary>
+btnClose control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NewWorldDocumentImaging._Default.imgSearchPermitType">
+	<summary>
+imgSearchPermitType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NewWorldDocumentImaging._Default.btnSearchType">
+	<summary>
+btnSearchType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NewWorldDocumentImaging._Default.imgSearchPermit">
+	<summary>
+imgSearchPermit control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NewWorldDocumentImaging._Default.btnSearch">
+	<summary>
+btnSearch control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NewWorldDocumentImaging._Default.imgScan">
+	<summary>
+imgScan control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NewWorldDocumentImaging._Default.btnScan">
+	<summary>
+btnScan control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NewWorldDocumentImaging._RFS.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NewWorldDocumentImaging._RFS.lblRFSNumberText">
+	<summary>
+lblRFSNumberText control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NewWorldDocumentImaging._RFS.lblRFS">
+	<summary>
+lblRFS control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NewWorldDocumentImaging._RFS.lblWait">
+	<summary>
+lblWait control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NewWorldDocumentImaging._RFS.btnCloseRFS">
+	<summary>
+btnCloseRFS control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NewWorldDocumentImaging._RFS.imgSearchPermit">
+	<summary>
+imgSearchPermit control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NewWorldDocumentImaging._RFS.btnSearchRFS">
+	<summary>
+btnSearchRFS control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NewWorldDocumentImaging._RFS.imgScan">
+	<summary>
+imgScan control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NewWorldDocumentImaging._RFS.btnScanRFS">
+	<summary>
+btnScanRFS control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NewWorldDocumentImaging._Project.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NewWorldDocumentImaging._Project.lblProjectNumberText">
+	<summary>
+lblProjectNumberText control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NewWorldDocumentImaging._Project.lblProject">
+	<summary>
+lblProject control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NewWorldDocumentImaging._Project.lblProjectTypeText">
+	<summary>
+lblProjectTypeText control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NewWorldDocumentImaging._Project.lblProjectType">
+	<summary>
+lblProjectType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NewWorldDocumentImaging._Project.lblWait">
+	<summary>
+lblWait control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NewWorldDocumentImaging._Project.btnClose">
+	<summary>
+btnClose control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NewWorldDocumentImaging._Project.imgSearchProjectType">
+	<summary>
+imgSearchProjectType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NewWorldDocumentImaging._Project.btnSearchType">
+	<summary>
+btnSearchType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NewWorldDocumentImaging._Project.imgSearchProject">
+	<summary>
+imgSearchProject control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NewWorldDocumentImaging._Project.btnSearch">
+	<summary>
+btnSearch control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NewWorldDocumentImaging._Project.imgScan">
+	<summary>
+imgScan control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NewWorldDocumentImaging._Project.btnScan">
+	<summary>
+btnScan control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:NewWorldDocumentImaging.My.MyWebExtension.Computer">
+	<summary>
+ Returns information about the host computer.
+ </summary>
+</member><member name="P:NewWorldDocumentImaging.My.MyWebExtension.User">
+	<summary>
+ Returns information for the current Web user.
+ </summary>
+</member><member name="P:NewWorldDocumentImaging.My.MyWebExtension.Request">
+	<summary>
+ Returns Request object.
+ </summary>
+</member><member name="P:NewWorldDocumentImaging.My.MyWebExtension.Response">
+	<summary>
+ Returns Response object.
+ </summary>
+</member><member name="P:NewWorldDocumentImaging.My.MyWebExtension.Log">
+	<summary>
+ Returns the Asp log object.
+ </summary>
+</member><member name="T:NewWorldDocumentImaging.My.MyWebExtension">
+	<summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:NewWorldDocumentImaging._Code.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NewWorldDocumentImaging._Code.lblCodeNumberText">
+	<summary>
+lblCodeNumberText control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NewWorldDocumentImaging._Code.lblCode">
+	<summary>
+lblCode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NewWorldDocumentImaging._Code.lblWait">
+	<summary>
+lblWait control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NewWorldDocumentImaging._Code.btnCloseCode">
+	<summary>
+btnCloseCode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NewWorldDocumentImaging._Code.imgSearchPermit">
+	<summary>
+imgSearchPermit control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NewWorldDocumentImaging._Code.btnSearchCode">
+	<summary>
+btnSearchCode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NewWorldDocumentImaging._Code.imgScan">
+	<summary>
+imgScan control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NewWorldDocumentImaging._Code.btnScanCode">
+	<summary>
+btnScanCode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+</members>
+</doc>
