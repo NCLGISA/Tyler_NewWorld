@@ -1,10 +1,12 @@
 # Logos to New World
 This is Randolph County's integration of Logos to Laserfiche using the 'paperclip' functionality inside of Logos.
 
+daniel.shue'at'randolphcountync.gov
+
 You'll need to modify C:\Program Files (x86)\New World Systems\Logos.Net\Services\Suite\ExternalLinks.config
 
 
-`	<!-- Templates -->
+	<!-- Templates -->
 		<externalLinks>
 			<!--
 				<add type="" template=""/>
@@ -55,4 +57,3 @@ You'll need to modify C:\Program Files (x86)\New World Systems\Logos.Net\Service
 				 <!-- <add type="Projects" template="alert(&quot;ExternalLinkType:Projects\nProjectCode:{{ProjectCode}}\nSubProjectCode:{{SubProjectCode}}\nProjectDetailCode:{{ProjectDetailCode}}\nConcatenatedFullProjectCode:{{ProjectDelimited}}&quot;);" /> -->
 		</externalLinks>
 	<!-- END Templates -->
-`
