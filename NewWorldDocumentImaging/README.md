@@ -1,5 +1,5 @@
 # Logos to New World
-This is Randolph County's integration of Logos to Laserfiche using the 'paperclip' functionality inside of Logos.
+This is Randolph County's integration of Logos to Laserfiche using the 'paperclip' functionality inside of Logos which utilizes WebLink.
 
 daniel.shue'at'randolphcountync.gov
 
@@ -42,7 +42,7 @@ You'll need to modify C:\Program Files (x86)\New World Systems\Logos.Net\Service
 				 <!-- <add type="License" template="alert(&quot;ExternalLinkType:License\nLicenseNumber:{{LicenseNumber}}\nLicenseTypeCode:{{LicenseTypeCode}}&quot;);" /> -->
 				 <add type="License" template="window.open('http://weblink.yourdomain.com/NewWorldDoc/License.aspx?LicenseNumber={{LicenseNumber}}&amp;LicenseType={{LicenseTypeCode}}','_blank','height=300,width=310,location=no,menubar=no,resizable=no,scrollbars=no,status=no,toolbar=no');" />
 				 <!-- <add type="ProjectPlanning" template="alert(&quot;ExternalLinkType:ProjectPlanning\nProjectNumber:{{ProjectNumber}}\nProjectType:{{ProjectTypeDescription}}&quot;);" /> -->
-				 <add type="ProjectPlanning" template="window.open(***'http://weblink.yourdomain.com/NewWorldDoc/Project.aspx?ProjectNumber={{ProjectNumber}}&amp;ProjectType={{ProjectTypeDescription}}','_blank','height=300,width=300,location=no,menubar=no,resizable=no,scrollbars=no,status=no,toolbar=no'***);" />
+				 <add type="ProjectPlanning" template="window.open('http://weblink.yourdomain.com/NewWorldDoc/Project.aspx?ProjectNumber={{ProjectNumber}}&amp;ProjectType={{ProjectTypeDescription}}','_blank','height=300,width=300,location=no,menubar=no,resizable=no,scrollbars=no,status=no,toolbar=no');" />
 				 <!-- <add type="Inspections" template="alert(&quot;ExternalLinkType:Inspections\nInspectionNumber:{{InspectionNumber}}\nInspectionTypeCode:{{InspectionTypeCode}}&quot;);" /> -->
 				 <!-- <add type="CodeEnforcementCase" template="alert(&quot;ExternalLinkType:Case\nCaseNumber:{{CaseNumber}}\nCaseTypeCode:{{Code}}&quot;);" /> -->
 				 <add type="CodeEnforcementCase" template="window.open('http://weblink.yourdomain.com/NewWorldDoc/Code.aspx?CodeNumber={{CaseNumber}}','_blank','height=300,width=300,location=no,menubar=no,resizable=no,scrollbars=no,status=no,toolbar=no');" />
