@@ -1,2 +1,2 @@
 # Tyler_NewWorld
-Custom mods for Logos
+Custom mods and integration for Logos
